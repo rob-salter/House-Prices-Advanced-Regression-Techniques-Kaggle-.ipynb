@@ -1,2 +1,4 @@
 # House-Prices-Advanced-Regression-Techniques-Kaggle-.ipynb
-Kaggle Training Comp
+A kaggle training competition using the Ames Housing dataset.
+
+
